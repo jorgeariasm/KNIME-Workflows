@@ -1,6 +1,7 @@
 ### Give Me Some Credit Example
 
-Credit scoring in Knime using Give Me Some Credit data set. 
+Credit scoring in Knime using Give Me Some Credit data set.
+See https://www.kaggle.com/c/GiveMeSomeCredit 
 
 ![Credit Scoring Workflow](GiveMe_wf.PNG)
 
