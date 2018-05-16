@@ -12,7 +12,9 @@ See https://www.kaggle.com/c/GiveMeSomeCredit
 
 ### Model Evaluation
 
+- ROC Curve for each feature
 ![ROC Curve for each feature](ROC.PNG)
 
+- ROC Curve after cross validation
 ![ROC Curve](ROC_2.PNG)
 
