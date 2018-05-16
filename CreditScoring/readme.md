@@ -11,4 +11,8 @@ See https://www.kaggle.com/c/GiveMeSomeCredit
 ![Credit Scoring Workflow v2](GiveMe_wf_2.PNG)
 
 ### Model Evaluation
-![ROC Curve](ROC.PNG)
+
+![ROC Curve for each feature](ROC.PNG)
+
+![ROC Curve](ROC_2.PNG)
+
