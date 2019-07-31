@@ -12,4 +12,6 @@ Give Me Some Credit workflow with KNIME
 ## TopicDetection folder
 Topic Detection workflow with KNIME
 
+## Churn folder
+Churn prediction workflow with KNIME
 
