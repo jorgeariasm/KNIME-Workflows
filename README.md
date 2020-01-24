@@ -15,3 +15,6 @@ Topic Detection workflow with KNIME
 ## Churn folder
 Churn prediction workflow with KNIME
 
+## Data folder
+Datasets for the examples above.
+
