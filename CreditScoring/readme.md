@@ -18,3 +18,5 @@ See https://www.kaggle.com/c/GiveMeSomeCredit
 - ROC Curve after cross validation
 ![ROC Curve](ROC_2.PNG)
 
+- ROC Curve after cross validation of each model
+![ROC Curves for each model](ComparativaROC.PNG)
