@@ -10,6 +10,10 @@ See https://www.kaggle.com/c/GiveMeSomeCredit
 ### Cross Validation Workflow
 ![Credit Scoring Workflow v2](GiveMe_wf_2.PNG)
 
+### Training different models
+![Credit Scoring Workflow v5](GiveMeCredit_v5.PNG)
+GiveMeCredit_v5.PNG 
+
 ### Model Evaluation
 
 - ROC Curve for each feature
